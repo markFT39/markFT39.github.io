@@ -1,6 +1,6 @@
 {
-    "name": "haru2",
-    "short_name": "haru2",
+    "name": "chatgpt_test",
+    "short_name": "chatgpt_test",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
